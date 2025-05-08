@@ -26,8 +26,9 @@ RobotFramework/
    pip install robotframework
 
 2. Navegue até a pasta raiz do projeto e execute os testes:
-
+```
 robot RobotFramework/Testes/
+```
 
 3. Os relatórios gerados (por padrão log.html, report.html, output.xml) aparecerão na pasta onde o comando foi executado.
 
