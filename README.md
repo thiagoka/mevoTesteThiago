@@ -1,6 +1,6 @@
 # Projeto de Testes Automatizados - Robot Framework
 
-Este repositório contém testes automatizados desenvolvidos com o Robot Framework, localizados na pasta `RobotFramework/Testes/`.
+Este repositório contém testes automatizados desenvolvidos com o Robot Framework, localizados na pasta `RobotFramework`.
 
 ## 📁 Estrutura
 
