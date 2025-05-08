@@ -4,10 +4,7 @@ Este repositório contém testes automatizados desenvolvidos com o Robot Framewo
 
 ## 📁 Estrutura
 
-RobotFramework/
-└── Testes/
-├── VerificacaoToken.robot
-└── VerificacaoVerPrecos.robot
+<pre> ```text RobotFramework/ └── Testes/ ├── VerificacaoToken.robot └── VerificacaoVerPrecos.robot ``` </pre>
 
 
 ## Como executar os testes
